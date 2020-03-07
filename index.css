@@ -4,3 +4,5 @@
 .mb-20 {
     margin-bottom: 20px
 }
+body {background-image: url(static/background/1.bmp);
+    background-size: 100%; background-repeat: no-repeat;}
